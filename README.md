@@ -5,10 +5,7 @@ void _mostrarSnackBar(String missatge) {
       SnackBar(content: Text(missatge)),
     );
 }
-```
 
-### ex:
-```
 _mostrarSnackBar('Ciutat no trobada o error al servidor');
 ```
 
