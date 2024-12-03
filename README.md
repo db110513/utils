@@ -1,3 +1,5 @@
+###  File > Invalidate Caches / Restart
+
 ### _mostrarSnackBar
 ```
 void _mostrarSnackBar(String missatge) {
