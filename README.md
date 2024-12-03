@@ -1,6 +1,3 @@
-# utils
-
-
 ### _mostrarSnackBar
 ```
 void _mostrarSnackBar(String missatge) {
