@@ -14,3 +14,9 @@ void _mostrarSnackBar(String missatge) {
 ```
 _mostrarSnackBar('Ciutat no trobada o error al servidor');
 ```
+
+### problemes emulador:
+```
+adb kill-server
+adb start-server
+```
